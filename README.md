@@ -98,7 +98,7 @@ override func animateCellOpen(lowerDetailsView:UIView,lowerView:UIView,animation
 ![](http://g.recordit.co/x87bJ0jg3e.gif)
 
 ### Demo App link
-![Demo Example][https://github.com/harshsrivastavaglobussoft/CCViewDemo]
+![Demo Example][https://github.com/harshsrivastav000/CCViewDemo]
 
 ## Requirements:-
 * XCode 9.4 +
